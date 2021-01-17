@@ -222,12 +222,12 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
-/* Features Section */
-#features {
+/* flow Section */
+#faq, #order, #flow  {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#flow i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
@@ -238,6 +238,10 @@ header .intro-text {
 	border-radius: 50%;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+
+#flow p {
+	min-height: 100px;
 }
 /* About Section */
 #about {
@@ -556,6 +560,10 @@ color: #777;
 #contact .social i.fa:hover {
 	color: #608dfd;
 	background: #fff;
+}
+
+#contact  a {
+		color: #fff;
 }
 /* Footer Section*/
 #footer {

@@ -20,7 +20,7 @@ export class Header extends Component {
                     href="#features"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    瞭解更多
                   </a>{" "}
                 </div>
               </div>

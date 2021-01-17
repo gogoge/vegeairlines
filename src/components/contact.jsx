@@ -9,13 +9,11 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Get In Touch</h2>
-                  <p>
-                    Please fill out the form below to send us an email and we
-                    will get back to you as soon as possible.
+                  <h2>聯絡我們</h2>
+                  <p>歡迎洽詢各類問題及下單
                   </p>
                 </div>
-                <form name="sentMessage" id="contactForm" noValidate>
+                {/* <form name="sentMessage" id="contactForm" noValidate>
                   <div className="row">
                     <div className="col-md-6">
                       <div className="form-group">
@@ -57,17 +55,25 @@ export class Contact extends Component {
                   <button type="submit" className="btn btn-custom btn-lg">
                     Send Message
                   </button>
-                </form>
+                </form> */}
               </div>
             </div>
             <div className="col-md-3 col-md-offset-1 contact-info">
-              <div className="contact-item">
+              {/* <div className="contact-item">
                 <h3>Contact Info</h3>
                 <p>
                   <span>
                     <i className="fa fa-map-marker"></i> Address
                   </span>
                   {this.props.data ? this.props.data.address : "loading"}
+                </p>
+              </div> */}
+              <div className="contact-item">
+                <p>
+                  <span>
+                    <i className="fa fa-facebook"></i> Facebook
+                  </span>{" "}
+                  <a href={this.props.data ? this.props.data.facebook : "loading"}>長虹 台灣直送蔬果社</a>
                 </p>
               </div>
               <div className="contact-item">
@@ -87,7 +93,7 @@ export class Contact extends Component {
                 </p>
               </div>
             </div>
-            <div className="col-md-12">
+            {/* <div className="col-md-12">
               <div className="row">
                 <div className="social">
                   <ul>
@@ -111,7 +117,7 @@ export class Contact extends Component {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div id="footer">
