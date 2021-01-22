@@ -8,8 +8,8 @@ export class Order extends Component {
           <div className="section-title">
             <h2>報價</h2>
             <p>最低MOQ為一箱（每箱為15KG)</p>
-            <p>運費 150 $TWD/KG，每箱運費為 $2250 TWD 約為 $608 ~ $610 HKD</p>
-            <p>一般來說，每箱食材的運費+食材本身價錢，約為 $1000~$1300 HKD</p>
+            <p>運費：參照國際航空公司當下運費標準報價</p>
+            <p>當日菜價也會因應市場狀況更新</p>
           </div>
           <div className="section-title">
             <h2>付款方式</h2>
