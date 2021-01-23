@@ -69,7 +69,28 @@
             "text": "清晨5~9點挑貨 -> 預冷保鮮8小時 -> 下午5點送至台北機場 -> 隔日10點到達香港報關碼頭，16小時空運到港"
         }
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
+            "path": "img/portfolio/15.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/16.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/17.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/18.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/19.jpg",
+            "title": "菜"
+        },
+        {
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
             "name": "John Doe"
