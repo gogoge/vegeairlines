@@ -71,26 +71,6 @@
     ],
     "Testimonials": [
         {
-            "path": "img/portfolio/15.jpg",
-            "title": "菜"
-        },
-        {
-            "path": "img/portfolio/16.jpg",
-            "title": "菜"
-        },
-        {
-            "path": "img/portfolio/17.jpg",
-            "title": "菜"
-        },
-        {
-            "path": "img/portfolio/18.jpg",
-            "title": "菜"
-        },
-        {
-            "path": "img/portfolio/19.jpg",
-            "title": "菜"
-        },
-        {
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
             "name": "John Doe"
@@ -122,6 +102,26 @@
         }
     ],
     "Gallery": [
+        {
+            "path": "img/portfolio/15.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/16.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/17.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/18.jpg",
+            "title": "菜"
+        },
+        {
+            "path": "img/portfolio/19.jpg",
+            "title": "菜"
+        },
         {
             "path": "img/portfolio/1.jpg",
             "title": "菜"
