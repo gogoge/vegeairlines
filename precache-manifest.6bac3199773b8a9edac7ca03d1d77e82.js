@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15b999182f5c487e578922a112d26c2e",
+    "revision": "d9d393aaf9effa306c3f3e921a36f5bc",
     "url": "/vegeairlines/index.html"
   },
   {
-    "revision": "490ee44d4ec146f8b748",
+    "revision": "2e1a05e3ec7b1fb37dea",
     "url": "/vegeairlines/static/css/main.b7ddbe6d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vegeairlines/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "490ee44d4ec146f8b748",
-    "url": "/vegeairlines/static/js/main.8c33bf91.chunk.js"
+    "revision": "2e1a05e3ec7b1fb37dea",
+    "url": "/vegeairlines/static/js/main.6293478e.chunk.js"
   },
   {
     "revision": "9b2b37a1812dcf802574",
