@@ -48,23 +48,34 @@
             "answer": "有的，詢價後可報價給您"
         }
     ],
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-plane",
-            "name": "精挑細選",
+            "img": "img/gif/select.gif",
+            "name": "精挑",
             "text": "專業人員每日在拍賣市場挑選當日新鮮食材、有機產品（有機=無毒、無農藥），精挑細選並去除根部、泥土及菜蟲，可符合雙邊海關檢驗標準，另提供自費農藥檢疫證明書申請."
         },
         {
+            "icon": "fa fa-plane",
+            "img": "img/gif/pick.gif",
+            "name": "細選",
+            "text": "精挑細選並去除根部、泥土及菜蟲，可符合雙邊海關檢驗標準，另提供自費農藥檢疫證明書申請."
+        },
+        {
             "icon": "fa fa-cloud-download",
+            "img": "img/gif/package.gif",
             "name": "嚴謹包裝",
             "text": "全密封式發泡膠（保麗龍）包裝，以冰塊降溫，外層包覆報紙防止食材凍傷，可保冷保鮮12小時"
         },
         {
             "icon": "fa fa-language",
+            "img": "img/gif/fridge.gif",
             "name": "低溫儲存",
             "text": "挑選出來的食材，會保存在專業冰庫中，維持1℃，保鮮8小時"
         },
         {
             "icon": "fa fa-plane",
+            "img": "img/gif/deliver.gif",
             "name": "今天訂，後天取貨",
             "text": "清晨5~9點挑貨 -> 預冷保鮮8小時 -> 下午5點送至台北機場 -> 隔日10點到達香港報關碼頭，16小時空運到港"
         }

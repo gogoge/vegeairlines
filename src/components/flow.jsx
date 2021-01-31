@@ -20,6 +20,7 @@ export class Flow extends Component {
                     <div className="flow-desc">
                       <h1>{d.name}</h1>
                       <p>{d.text}</p>
+                      <img src={d.img}></img>
                     </div>
                   </div>
                 ))
