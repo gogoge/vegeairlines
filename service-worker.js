@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vegeairlines/precache-manifest.4c96a2cd40d3cb2b5b346615d89f3bdc.js"
+  "/vegeairlines/precache-manifest.090fe8c601f26e04fccfd1a2e8b77b41.js"
 );
 
 self.addEventListener('message', (event) => {
