@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vegeairlines/static/css/main.b7ddbe6d.chunk.css",
-    "main.js": "/vegeairlines/static/js/main.2c08af31.chunk.js",
-    "main.js.map": "/vegeairlines/static/js/main.2c08af31.chunk.js.map",
+    "main.js": "/vegeairlines/static/js/main.e2ac9b6e.chunk.js",
+    "main.js.map": "/vegeairlines/static/js/main.e2ac9b6e.chunk.js.map",
     "runtime-main.js": "/vegeairlines/static/js/runtime-main.5a71117f.js",
     "runtime-main.js.map": "/vegeairlines/static/js/runtime-main.5a71117f.js.map",
     "static/js/2.ef9b312c.chunk.js": "/vegeairlines/static/js/2.ef9b312c.chunk.js",
     "static/js/2.ef9b312c.chunk.js.map": "/vegeairlines/static/js/2.ef9b312c.chunk.js.map",
     "index.html": "/vegeairlines/index.html",
-    "precache-manifest.8b4dfb9898321a99e0f15ac8e2007834.js": "/vegeairlines/precache-manifest.8b4dfb9898321a99e0f15ac8e2007834.js",
+    "precache-manifest.9c3fd967952e5b7a7004e411dd80cc6b.js": "/vegeairlines/precache-manifest.9c3fd967952e5b7a7004e411dd80cc6b.js",
     "service-worker.js": "/vegeairlines/service-worker.js",
     "static/css/main.b7ddbe6d.chunk.css.map": "/vegeairlines/static/css/main.b7ddbe6d.chunk.css.map",
     "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/vegeairlines/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5a71117f.js",
     "static/js/2.ef9b312c.chunk.js",
     "static/css/main.b7ddbe6d.chunk.css",
-    "static/js/main.2c08af31.chunk.js"
+    "static/js/main.e2ac9b6e.chunk.js"
   ]
 }
